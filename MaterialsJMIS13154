@@ -1,3 +1,7 @@
 # JMIS13154
 Materials for manuscript JMIS 13154 resubmission
-Data files are SPSS (.sav) and Models 6 and 7 require PROCESS macro installation: http://www.processmacro.org/download.html  
+All files are provided in SPSS
+Data files are .sav extensions 
+Syntax files are .sps extensions 
+Output files are .spv extensions 
+Models 6 and 7 require PROCESS macro installation: Please see <a href="http://www.processmacro.org/download.html"></a>  
